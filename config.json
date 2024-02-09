@@ -1,0 +1,11 @@
+{
+"csv_patch": "c:\teste",
+"auvo_api_url" : "https://api.auvo.com.br/v2",
+"auvo_api_key": "",
+"auvo_api_token": "",
+"log_enabled": true,
+"debug_enabled": true,
+"log_when": "midnight",
+"log_interval": 1,
+"log_max_files": 10
+}
